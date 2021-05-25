@@ -1,0 +1,15 @@
+{
+    "talents": [{ "id": 1, "title": "DANCE", 
+      "thumbnailsUrl": "http://localhost:9000/dance.jpeg"
+     },
+        { "id": 2, "title": "ART", 
+        "thumbnailsUrl": "http://localhost:9000/arts.jpeg"
+        },
+        { "id": 3, "title": "FITNESS", 
+          "thumbnailsUrl": "http://localhost:9000/fitness.jpeg"
+        },
+        { "id": 4, "title": "PHOTOGRAPY", 
+            "thumbnailsUrl": "http://localhost:9000/photography.jpeg" 
+        }
+    ]
+  } 
